@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MyLaptop\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\MyLaptop\Desktop\ch09_ex4_NewsReader_new-master\ch09_ex4_NewsReader_new-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_378dbb5e3afd7aaf81bc8f1760e0285eea83c262\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MyLaptop\Desktop\ch09_ex4_NewsReader_new-master\ch09_ex4_NewsReader_new-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="217536314328a646f41dedcb3bee9051cef32d8a">
+        <dex dex="C:\Users\MyLaptop\Desktop\ch09_ex4_NewsReader_new-master\ch09_ex4_NewsReader_new-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_418f3fb250aae5c590eb0ebe24db980e7c72bed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MyLaptop\Desktop\ch09_ex4_NewsReader_new-master\ch09_ex4_NewsReader_new-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9c9b75cd893ea5fed9d23ba2e5c189530406b15c">
+        <dex dex="C:\Users\MyLaptop\Desktop\ch09_ex4_NewsReader_new-master\ch09_ex4_NewsReader_new-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6e92f8919981497967911f002ee5adf6e5079b32\classes.dex" />
+    </item>
+
+</items>

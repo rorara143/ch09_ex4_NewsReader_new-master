@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sun Nov 20 15:32:52 PST 2016
+2.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listview_item.xml
+4.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_fragment_items.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_item_2.xml
+5.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_item.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_items.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_items.xml
+10.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_items.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_item.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

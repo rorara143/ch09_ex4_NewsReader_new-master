@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="352580884152849"
+    token="1731843120267793207"
+    verifier="CLASS_ADDED" >
+
+    <task
+        name="javac"
+        duration="5026" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1326" />
+    <task
+        name="verifier"
+        duration="144" />
+
+    <artifact
+        location="C:\Users\MyLaptop\Desktop\ch09_ex4_NewsReader_new-master\ch09_ex4_NewsReader_new-master\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\MyLaptop\Desktop\ch09_ex4_NewsReader_new-master\ch09_ex4_NewsReader_new-master\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="345271683138460"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\MyLaptop\Desktop\ch09_ex4_NewsReader_new-master\ch09_ex4_NewsReader_new-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="352580884152849"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="C:\Users\MyLaptop\Desktop\ch09_ex4_NewsReader_new-master\ch09_ex4_NewsReader_new-master\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\MyLaptop\Desktop\ch09_ex4_NewsReader_new-master\ch09_ex4_NewsReader_new-master\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Sun Nov 20 13:32:28 PST 2016
+base.0=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_418f3fb250aae5c590eb0ebe24db980e7c72bed8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6e92f8919981497967911f002ee5adf6e5079b32\\classes.dex
+base.1=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6e92f8919981497967911f002ee5adf6e5079b32
+file.0=C\:\\Users\\MyLaptop\\Desktop\\ch09_ex4_NewsReader_new-master\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_418f3fb250aae5c590eb0ebe24db980e7c72bed8\\classes.dex
